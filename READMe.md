@@ -15,7 +15,7 @@
 
 <img width="20" src="https://www.svgrepo.com/show/303206/javascript-logo.svg" /> JS
 ## Connect with me
-<img width="20" src="https://www.svgrepo.com/show/353655/discord-icon.svg" /> Discord: eclipse.241
+<img width="20" src="https://www.svgrepo.com/show/353655/discord-icon.svg" /> eclipse.241
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepcodeloverboy" alt="deepcodeloverboy" /></a> </p>
 
